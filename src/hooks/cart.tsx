@@ -1,3 +1,4 @@
+/* eslint-disable array-callback-return */
 import React, {
   createContext,
   useState,
@@ -86,7 +87,11 @@ const CartProvider: React.FC = ({ children }) => {
 
   const decrement = useCallback(
     async id => {
-      const newProducts = products.map(product =>
+      const productsWithQuantityZero = products.filter(product => {
+        return product.quantity > 1;
+      });
+
+      const newProducts = productsWithQuantityZero.map(product =>
         product.id === id
           ? { ...product, quantity: product.quantity - 1 }
           : product,

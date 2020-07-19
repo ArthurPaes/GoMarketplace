@@ -1,28 +1,54 @@
 {
   "products": [
     {
-      "id": "123",
-      "title": "Nome do produto 01",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 50
+      "id": "1",
+      "title": "Produto 1",
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT4Nuxc7LJqbdU4kkF5ZIAJgHPGNPa6JoEc8xcHtjbgMMQfUouaKguQYGz9Z_7e0-Mzaw9siZF3&usqp=CAY",
+      "price": 100
     },
     {
-      "id": "1234",
-      "title": "Nome do produto 02",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 60
+      "id": "2",
+      "title": "Produto 2",
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSU7MqzP-6dFDLmf10VduREmenVLCFc7LjbFTdHyzoDA3ljU6tEy0PFjBwyZFPPUqIDZTc30AV4&usqp=CAY",
+      "price": 750
     },
     {
-      "id": "12345",
-      "title": "Nome do produto 03",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 70
+      "id": "3",
+      "title": "Produto 3",
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRJCRexfXYsFhG0f5id3rh8T3dp3gU5Qqe-2X5wp-vzcTVXldiYQg4TA-bRjdU&usqp=CAE",
+      "price": 2700
     },
     {
-      "id": "123456",
-      "title": "Nome do produto 04",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "id": "4",
+      "title": "Produto 4",
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSoBIPHiHQLwjsTCoJUe4XhvBCOvmlgwCE-_odzopdO7dU3RYJlX_fiI0N1Fg&usqp=CAE",
+      "price": 40
+    },
+    {
+      "id": "5",
+      "title": "Produto 5",
+      "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcREUhf5aHObt6W07VnSMn3KmTxHAnl08zVBO_5IxT_La4LMAuazldhFTY3S2RCbo6CQ1nKiBEv1&usqp=CAE",
+      "price": 90
+    },
+    {
+      "id": "6",
+      "title": "Produto 6",
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQBwpfRCa6eJ2AzoEp-NjWzdP1qO39TYs0CP1YBiRmdQMG_9ZT_88TJOQg6IkmlRVQdTqn_Uu6t&usqp=CAE",
+      "price": 200
+    },
+    {
+      "id": "7",
+      "title": "Produto 7",
+      "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ4vS1HYPrjGIj--hrKg8zLOKTJ_9GgWbHzrpXsZBV4nRo_ta3m1Cc1NFMMYLtlcH_ZaNHhh9I&usqp=CAE",
       "price": 80
+    },
+    {
+      "id": "8",
+      "title": "Produto 8",
+      "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTYCfNcRRjSG7KQYZweKz_2PTU9JeRvsdDltVbKQBN7in0FENxW0lqjGIiN1IW5y1mH6zoRKl0&usqp=CAE",
+      "price": 30
     }
+
+
   ]
 }
