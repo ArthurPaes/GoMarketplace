@@ -35,6 +35,11 @@ $ git clone https://github.com/ArthurPaes/GoMarketplace.git
 $ yarn 
 $ npm install
 ```
+This was project was done using a fake api,to start it, execute:
+```shell
+$ yarn json-server server.json -p 3333 
+```
+
 > To start the development server execute:
 ```shell
 $ yarn start 
@@ -44,8 +49,8 @@ $ yarn start
 $ yarn android
 ```
 
-
-
+#### Notes
+>This project was developed on android. If you're on a different system, you may need to change the Api's baseURL
 
 
 
